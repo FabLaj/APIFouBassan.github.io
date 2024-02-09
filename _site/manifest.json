@@ -1,0 +1,208 @@
+{
+  "source_base_path": "D:/ecole/esp/2024-esp-FabLaj/API/APIFouBassan",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Controllers.FouBassanController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Controllers.FouBassanController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.EspDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.EspDbContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.FouBassan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.FouBassan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.FouBassanDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.FouBassanDTO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.PositionTemps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.PositionTemps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.PositionTempsDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.PositionTempsDTO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.ProfondeurTemps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.ProfondeurTemps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.ProfondeurTempsDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.ProfondeurTempsDTO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.Program.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/APIFouBassan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/APIFouBassan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
